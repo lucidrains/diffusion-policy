@@ -1,0 +1,1 @@
+from diffusion_policy.diffusion_policy import DiffusionPolicy

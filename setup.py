@@ -19,7 +19,8 @@ setup(
     'transformers'
   ],
   install_requires=[
-    'einops>=0.6.1',
+    'beartype',
+    'einops>=0.7.0',
     'torch>=1.12'
   ],
   classifiers=[
