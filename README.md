@@ -8,6 +8,8 @@ What seemed to have happened is that a research group at Columbia adapted the po
 
 The great thing is, if this really works, all the advances being made in text-to-image space can translate to robotics. Yes, this includes stuff like dreambooth and <a href="https://github.com/lucidrains/perfusion-pytorch">perfusion</a>.
 
+Will also extend this to Q-functions as done in <a href="https://qtransformer.github.io/">this work</a>
+
 ## Citations
 
 ```bibtex
