@@ -8,7 +8,10 @@ What seemed to have happened is that a research group at Columbia adapted the po
 
 The great thing is, if this really works, all the advances being made in text-to-image space can translate to robotics. Yes, this includes stuff like dreambooth and <a href="https://github.com/lucidrains/perfusion-pytorch">perfusion</a>.
 
-Will also extend this to Q-functions as done in <a href="https://qtransformer.github.io/">this work</a>
+## Todo
+
+- [ ] add rlhf
+- [ ] add adversarial distillation
 
 ## Citations
 
@@ -20,5 +23,16 @@ Will also extend this to Q-functions as done in <a href="https://qtransformer.gi
     year    = {2023},
     volume  = {abs/2303.04137},
     url     = {https://api.semanticscholar.org/CorpusID:257378658}
+}
+```
+
+```bibtex
+@article{Sauer2023AdversarialDD,
+    title   = {Adversarial Diffusion Distillation},
+    author  = {Axel Sauer and Dominik Lorenz and A. Blattmann and Robin Rombach},
+    journal = {ArXiv},
+    year    = {2023},
+    volume  = {abs/2311.17042},
+    url     = {https://api.semanticscholar.org/CorpusID:265466173}
 }
 ```
