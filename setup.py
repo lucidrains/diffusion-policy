@@ -19,9 +19,12 @@ setup(
     'transformers'
   ],
   install_requires=[
+    'accelerate',
     'beartype',
     'einops>=0.7.0',
-    'torch>=1.12'
+    'ema-pytorch',
+    'torch>=2.1',
+    'torchvision'
   ],
   classifiers=[
     'Development Status :: 4 - Beta',
