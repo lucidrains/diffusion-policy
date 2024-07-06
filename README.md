@@ -8,6 +8,8 @@ What seemed to have happened is that a research group at Columbia adapted the po
 
 The great thing is, if this really works, all the advances being made in text-to-image space can translate to robotics. Yes, this includes stuff like dreambooth.
 
+<a href="https://discord.gg/TYq72J3Cp4">Discord</a>
+
 ## Todo
 
 - [ ] add rlhf
